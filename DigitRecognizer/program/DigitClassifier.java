@@ -1,5 +1,3 @@
-package q2.program;
-
 import java.io.*;
 import java.util.*;
 
