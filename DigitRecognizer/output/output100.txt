@@ -1,0 +1,9 @@
+5
+0
+0
+1
+1
+1
+
+Validation Error:  0.00%
+K-Value: 5
